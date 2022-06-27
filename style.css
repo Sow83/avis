@@ -15,9 +15,9 @@ h1{
     font-size: 30px;
 }
 .container-reviews{
-    margin: 200px auto;
+    margin: 0 auto;
     max-width: 765px;
-    padding: 2rem;
+    padding: 32px;
 }
 .title{
     text-align: center;
@@ -44,7 +44,7 @@ h1{
     height: 150px;
     border-radius: 50%;
     margin: 0 auto;
-    margin-bottom: 1.5rem;
+    margin-bottom: 24px;
 }
 .img-container::after {
     width: 40px;
